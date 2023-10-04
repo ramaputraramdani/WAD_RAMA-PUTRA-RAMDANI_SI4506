@@ -1,0 +1,23 @@
+body{
+    background-color: darkcyan;
+}
+h1 {
+    text-align: center;
+    color: chartreuse;
+    text-indent: 30px;
+}
+h2 {
+    text-align: center;
+    color: aquamarine;
+    text-transform: initial;
+}
+h3 {
+    text-align: center;
+    color: brown;
+    text-decoration: line-through;
+}
+p {
+    text-align: justify;
+    color: black;
+    letter-spacing: normal;
+}
